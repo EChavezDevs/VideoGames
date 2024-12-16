@@ -75,7 +75,7 @@ Instalación
 
 Clona el repositorio:
 
-git clone https://github.com/usuario/proyecto-videogames.git
+git clone https://github.com/EChavezDevs/VideoGames
 
 Instala las dependencias necesarias:
 
