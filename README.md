@@ -7,8 +7,7 @@ El sistema de inventario desarrollado para la tienda VideoGames es una plataform
 Colaboradores
 Eliseo Chavez Trujillo
 https://github.com/EChavezDevs
-Damian Gutierrez Lemus
-https://github.com/DamianGutierrezLemus
+
 
 Funcionalidades
 
